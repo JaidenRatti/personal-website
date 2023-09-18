@@ -1,0 +1,21 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family:
+  "Computer Modern Serif", "Palatino", "Perpetua", "Baskerville", "Lucida Console", "Florence", "Times New Roman", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
