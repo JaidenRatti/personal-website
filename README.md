@@ -1,1 +1,2 @@
-personal website
+[personal website](https://www.jaidenratti.com/)
+
