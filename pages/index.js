@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import Link from 'next/link';
-
+import { Analytics } from '@vercel/analytics/react';
 
 
 export default function Home() {
@@ -9,12 +9,10 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
+      <Analytics />
       <Head>
         <link rel="stylesheet" href="https://latex.now.sh/style.min.css" />
-        <script>
-          window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-          </script>
-          <script defer src="/_vercel/insights/script.js"></script>
+        
       </Head>
 
       <main className={styles.header}>
@@ -36,6 +34,7 @@ export default function Home() {
       GitHub: <Link href="https://github.com/JaidenRatti"className={styles.customLink} target="_blank">@jaidenratti</Link><br/>
       Twitter: <Link href="https://twitter.com/JaidenRatti"className={styles.customLink} target="_blank">@jaidenratti</Link><br/>      
       </p>
+
 
       
       </main>
