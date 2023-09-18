@@ -305,7 +305,7 @@ export default function Books() {
         <h2 className={styles.title}>Bookshelf</h2>
         <p className={styles['book-desc']}>A reader lives a thousand lives</p>
 
-        <p className={styles.description}>Currently reading cognitive science, philosophy, psychology, startups.
+        <p className={styles.description}>Currently reading cognitive science, philosophy, NLP, startups.
         Usually updating on Goodreads <Link href="https://www.goodreads.com/review/list/155376622?shelf=read"className={styles.customLink} target="_blank">
             @jaidenratti</Link> or Bookshelved <Link href="https://bookshelved.com/@jaiden"className={styles.customLink} target="_blank">@jaiden</Link>.</p>
 
