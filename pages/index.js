@@ -11,6 +11,10 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <link rel="stylesheet" href="https://latex.now.sh/style.min.css" />
+        <script>
+          window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+          </script>
+          <script defer src="/_vercel/insights/script.js"></script>
       </Head>
 
       <main className={styles.header}>
