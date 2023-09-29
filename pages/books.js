@@ -55,6 +55,7 @@ const booksData = [
         t: "The Fall",
         d: "",
         a: "Albert Camus"
+    },
     {
         t: "Mindset:",
         d: "The New Psychology of Success",
@@ -73,7 +74,8 @@ const booksData = [
     {
         t: "Algorithms to Live By:",
         d: "The Computer Science of Human Decisions",
-        a: "Brian Christian & Tom Griffiths
+        a: "Brian Christian & Tom Griffiths"
+    },
     {
         t: "The Art of War",
         d: "",
@@ -188,6 +190,11 @@ const booksData = [
         t: "Language and Proofs in Algebra:",
         d: "An Introduction",
         a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
+        t: "Is Justified True Belief Knowledge?",
+        d: "",
+        a: "Edmund Gettier"
     },
     {
         t: "Mathematical Logic for Computer Science",
