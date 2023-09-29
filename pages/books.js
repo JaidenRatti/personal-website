@@ -52,6 +52,10 @@ const booksData = [
         a: "Andrew Chen"
     },
     {
+        t: "The Fall",
+        d: "",
+        a: "Albert Camus"
+    {
         t: "Mindset:",
         d: "The New Psychology of Success",
         a: "Carol S. Dweck"
@@ -66,6 +70,10 @@ const booksData = [
         d: "The Power of Knowing What You Don't",
         a: "Adam M. Grant"
     },
+    {
+        t: "Algorithms to Live By:",
+        d: "The Computer Science of Human Decisions",
+        a: "Brian Christian & Tom Griffiths
     {
         t: "The Art of War",
         d: "",
@@ -100,6 +108,11 @@ const booksData = [
         t: "The Alchemist",
         d: "",
         a: "Paulo Coelho"
+    },
+    {
+        t: "Think Like a Monk:",
+        d: "Train Your Mind for Peace and Purpose",
+        a: "Jay Shetty"
     },
     {
         t: "Essentialism:",
@@ -170,6 +183,21 @@ const booksData = [
         t: "The Black Swan:",
         d: "The Impact of the Highly Improbable",
         a: "Nassim Nicholas Taleb"
+    },
+    {
+        t: "Language and Proofs in Algebra:",
+        d: "An Introduction",
+        a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
+        t: "Mathematical Logic for Computer Science",
+        d: "",
+        a: "Lu Zhongwan"
+    },
+    {
+        t: "MATH 136:",
+        d: "Linear Algebra 1 for Honours Mathematics",
+        a: "Faculty of Mathematics, UWaterloo"
     },
     {
         t: "Shoe Dog:",
