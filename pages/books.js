@@ -177,6 +177,11 @@ const booksData = [
         a: "Malcolm Gladwell"
     },
     {
+        t: "The Good Enough Job:",
+        d: "Reclaiming Life from Work",
+        a: "Simone Stolzoff"
+    },
+    {
         t: "The Intelligent Investor",
         d: "",
         a: "Benjamin Graham"
