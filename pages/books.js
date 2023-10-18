@@ -87,7 +87,7 @@ const booksData = [
         a: "Ryan Holiday"
     },
     {
-        t: "Tuesdays with Morrie",
+        t: "Tuesdays with Morrie:",
         d: "An Old Man, A Young Man and Life's Greatest Lesson",
         a: "Mitch Albom"
     },
