@@ -87,6 +87,11 @@ const booksData = [
         a: "Ryan Holiday"
     },
     {
+        t: "Tuesdays with Morrie",
+        d: "An Old Man, A Young Man and Life's Greatest Lesson",
+        a: "Mitch Albom"
+    },
+    {
         t: "Thinking in Bets:",
         d: "Making Smarter Decisions When You Don't Have All the Facts",
         a: "Annie Duke"
