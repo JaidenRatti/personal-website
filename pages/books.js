@@ -212,6 +212,11 @@ const booksData = [
         a: "Lu Zhongwan"
     },
     {
+        t: "The Tipping Point:",
+        d: "How Little Things can Make a Big Difference",
+        a: "Malcolm Gladwell"
+    },
+    {
         t: "MATH 136:",
         d: "Linear Algebra 1 for Honours Mathematics",
         a: "Faculty of Mathematics, UWaterloo"
