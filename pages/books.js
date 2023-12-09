@@ -252,6 +252,11 @@ const booksData = [
         a: "Scott Galloway"
     },
     {
+        t: "Red Rising",
+        d: "",
+        a: "Pierce Brown"
+    },
+    {
         t: "Burn Rate:",
         d: "Launching a Startup and Losing My Mind",
         a: "Andy Dunn"
