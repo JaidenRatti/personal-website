@@ -237,6 +237,11 @@ const booksData = [
         a: "George Gilder"
     },
     {
+        t: "The Last Lecture",
+        d: "",
+        a: "Randy Pausch & Jeffrey Zaslow"
+    },
+    {
         t: "Make Your Bed:",
         d: "Little Things That Can Change Your Life...And Maybe the World",
         a: "William H. McRaven"
@@ -300,6 +305,11 @@ const booksData = [
         t: "Why We Sleep:",
         d: "Unlocking the Power of Sleep and Dreams",
         a: "Matthew Walker"
+    },
+    {
+        t: "No Longer Human",
+        d: "",
+        a: "Osamu Dazai"
     },
     {
         t: "The Courage to Be Disliked:",
