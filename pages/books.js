@@ -207,6 +207,11 @@ const booksData = [
         a: "Edmund Gettier"
     },
     {
+        t: "The Language Instinct",
+        d: "How the Mind Creates Language",
+        a: "Steven Pinker"
+    },
+    {
         t: "Mathematical Logic for Computer Science",
         d: "",
         a: "Lu Zhongwan"
@@ -222,14 +227,29 @@ const booksData = [
         a: "Faculty of Mathematics, UWaterloo"
     },
     {
+        t: "STAT 230:",
+        d: "Probability",
+        a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
         t: "Shoe Dog:",
         d: "A Memoir by the Creator of Nike",
         a: "Phil Knight"
     },
     {
+        t: "Elon Musk",
+        d: "",
+        a: "Walter Isaacson"
+    },
+    {
         t: "Elon Musk:",
         d: "Tesla, SpaceX, and the Quest for a Fantastic Future",
         a: "Ashlee Vance"
+    },
+    {
+        t: "New Media:",
+        d: "An Introduction",
+        a: "Terry Flew & Richard Smith"
     },
     {
         t: "Life After Google:",
@@ -240,6 +260,16 @@ const booksData = [
         t: "The Last Lecture",
         d: "",
         a: "Randy Pausch & Jeffrey Zaslow"
+    },
+    {
+        t: "Exploring Ethics",
+        d: "",
+        a: "Gerry Callaghan",
+    },
+    {
+        t: "Crito",
+        d: "",
+        a: "Plato"
     },
     {
         t: "Make Your Bed:",
