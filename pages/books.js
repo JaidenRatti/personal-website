@@ -152,6 +152,11 @@ const booksData = [
         a: "Daniel Kahneman"
     },
     {
+        t: "Klara and the Sun",
+        d: "",
+        a: "Kazuo Ishiguro"
+    },
+    {
         t: "Blink:",
         d: "The Power of Thinking Without Thinking",
         a: "Malcolm Gladwell"
