@@ -107,6 +107,11 @@ const booksData = [
         a: "Hector Garcia"
     },
     {
+        t: "Map and Territory",
+        d: "",
+        a: "Eliezer Yudkowsky"
+    },
+    {
         t: "Being Mortal:",
         d: "Medicine and What Matters in the End",
         a: "Atul Gawande"
@@ -185,6 +190,11 @@ const booksData = [
         t: "Talking to Strangers:",
         d: "What We Should Know About the People We Don't Know",
         a: "Malcolm Gladwell"
+    },
+    {
+        t: "When Reason Goes on Holiday:",
+        d: "Philosophers in Politics",
+        a: "Neven Sesardić"
     },
     {
         t: "The Good Enough Job:",
