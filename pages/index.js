@@ -30,7 +30,7 @@ export default function Home() {
         <p className={styles.description}>University Notes</p>
         
         <ul className={styles.bulletList}>
-          <li><Link href="/math239"className={styles.customLink}>MATH239</Link> Introduction to Combinatorics</li>
+          <li><Link href="https://www.jaidenratti.com/math239"className={styles.customLink}>MATH239</Link> Introduction to Combinatorics</li>
         </ul>
         <p className={styles.description}>Also enjoy road cycling. On Strava <Link href="https://www.strava.com/athletes/jaidenratti"className={styles.customLink} target="_blank">@jaidenratti</Link>.</p>
       <hr></hr>
