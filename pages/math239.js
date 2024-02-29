@@ -20,7 +20,7 @@ const NumPage = ({ numHtmlContent }) => {
 
 export async function getStaticProps() {
   
-  const numHtmlPath = path.join(process.cwd(), 'pages/Math239.html');
+  const numHtmlPath = path.join(process.cwd(), 'pages/math239.html');
   const numHtmlContent = fs.readFileSync(numHtmlPath, 'utf-8');
 
   return {
