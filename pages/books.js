@@ -52,6 +52,11 @@ const booksData = [
         a: "Andrew Chen"
     },
     {
+        t: "The Fall",
+        d: "",
+        a: "Albert Camus"
+    },
+    {
         t: "Mindset:",
         d: "The New Psychology of Success",
         a: "Carol S. Dweck"
@@ -67,6 +72,11 @@ const booksData = [
         a: "Adam M. Grant"
     },
     {
+        t: "Algorithms to Live By:",
+        d: "The Computer Science of Human Decisions",
+        a: "Brian Christian & Tom Griffiths"
+    },
+    {
         t: "The Art of War",
         d: "",
         a: "Sun Tzu"
@@ -75,6 +85,11 @@ const booksData = [
         t: "Ego Is The Enemy",
         d: "",
         a: "Ryan Holiday"
+    },
+    {
+        t: "Tuesdays with Morrie:",
+        d: "An Old Man, A Young Man and Life's Greatest Lesson",
+        a: "Mitch Albom"
     },
     {
         t: "Thinking in Bets:",
@@ -92,6 +107,11 @@ const booksData = [
         a: "Hector Garcia"
     },
     {
+        t: "Map and Territory",
+        d: "",
+        a: "Eliezer Yudkowsky"
+    },
+    {
         t: "Being Mortal:",
         d: "Medicine and What Matters in the End",
         a: "Atul Gawande"
@@ -100,6 +120,11 @@ const booksData = [
         t: "The Alchemist",
         d: "",
         a: "Paulo Coelho"
+    },
+    {
+        t: "Think Like a Monk:",
+        d: "Train Your Mind for Peace and Purpose",
+        a: "Jay Shetty"
     },
     {
         t: "Essentialism:",
@@ -132,6 +157,11 @@ const booksData = [
         a: "Daniel Kahneman"
     },
     {
+        t: "Klara and the Sun",
+        d: "",
+        a: "Kazuo Ishiguro"
+    },
+    {
         t: "Blink:",
         d: "The Power of Thinking Without Thinking",
         a: "Malcolm Gladwell"
@@ -162,6 +192,16 @@ const booksData = [
         a: "Malcolm Gladwell"
     },
     {
+        t: "When Reason Goes on Holiday:",
+        d: "Philosophers in Politics",
+        a: "Neven Sesardić"
+    },
+    {
+        t: "The Good Enough Job:",
+        d: "Reclaiming Life from Work",
+        a: "Simone Stolzoff"
+    },
+    {
         t: "The Intelligent Investor",
         d: "",
         a: "Benjamin Graham"
@@ -172,9 +212,49 @@ const booksData = [
         a: "Nassim Nicholas Taleb"
     },
     {
+        t: "Language and Proofs in Algebra:",
+        d: "An Introduction",
+        a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
+        t: "Is Justified True Belief Knowledge?",
+        d: "",
+        a: "Edmund Gettier"
+    },
+    {
+        t: "The Language Instinct",
+        d: "How the Mind Creates Language",
+        a: "Steven Pinker"
+    },
+    {
+        t: "Mathematical Logic for Computer Science",
+        d: "",
+        a: "Lu Zhongwan"
+    },
+    {
+        t: "The Tipping Point:",
+        d: "How Little Things can Make a Big Difference",
+        a: "Malcolm Gladwell"
+    },
+    {
+        t: "MATH 136:",
+        d: "Linear Algebra 1 for Honours Mathematics",
+        a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
+        t: "STAT 230:",
+        d: "Probability",
+        a: "Faculty of Mathematics, UWaterloo"
+    },
+    {
         t: "Shoe Dog:",
         d: "A Memoir by the Creator of Nike",
         a: "Phil Knight"
+    },
+    {
+        t: "Elon Musk",
+        d: "",
+        a: "Walter Isaacson"
     },
     {
         t: "Elon Musk:",
@@ -182,9 +262,29 @@ const booksData = [
         a: "Ashlee Vance"
     },
     {
+        t: "New Media:",
+        d: "An Introduction",
+        a: "Terry Flew & Richard Smith"
+    },
+    {
         t: "Life After Google:",
         d: "The Fall of Big Data and the Rise of the Blockchain Economy",
         a: "George Gilder"
+    },
+    {
+        t: "The Last Lecture",
+        d: "",
+        a: "Randy Pausch & Jeffrey Zaslow"
+    },
+    {
+        t: "Exploring Ethics",
+        d: "",
+        a: "Gerry Callaghan",
+    },
+    {
+        t: "Crito",
+        d: "",
+        a: "Plato"
     },
     {
         t: "Make Your Bed:",
@@ -200,6 +300,11 @@ const booksData = [
         t: "The Algebra of Happiness:",
         d: "Notes on the Pursuit of Success, Love, and Meaning",
         a: "Scott Galloway"
+    },
+    {
+        t: "Red Rising",
+        d: "",
+        a: "Pierce Brown"
     },
     {
         t: "Burn Rate:",
@@ -245,6 +350,11 @@ const booksData = [
         t: "Why We Sleep:",
         d: "Unlocking the Power of Sleep and Dreams",
         a: "Matthew Walker"
+    },
+    {
+        t: "No Longer Human",
+        d: "",
+        a: "Osamu Dazai"
     },
     {
         t: "The Courage to Be Disliked:",
@@ -305,7 +415,7 @@ export default function Books() {
         <h2 className={styles.title}>Bookshelf</h2>
         <p className={styles['book-desc']}>A reader lives a thousand lives</p>
 
-        <p className={styles.description}>Currently reading cognitive science, philosophy, NLP, startups.
+        <p className={styles.description}>Currently reading cognitive science, philosophy, epistemology, startups.
         Usually updating on Goodreads <Link href="https://www.goodreads.com/review/list/155376622?shelf=read"className={styles.customLink} target="_blank">
             @jaidenratti</Link> or Bookshelved <Link href="https://bookshelved.com/@jaiden"className={styles.customLink} target="_blank">@jaiden</Link>.</p>
 

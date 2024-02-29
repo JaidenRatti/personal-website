@@ -118,7 +118,7 @@
   font-size: 1rem;
 }
 
-.under {
+.under .underline {
   font-size:1rem;
   text-decoration: underline;
   cursor: pointer;
