@@ -36,7 +36,6 @@ export default function Home() {
           <li><Link href="/cs246"className={styles.customLink}>CS246</Link> Object-Oriented Software Development</li>
         </ul>
         <p className={styles.description}>Also enjoy road cycling. On Strava <Link href="https://www.strava.com/athletes/jaidenratti"className={styles.customLink} target="_blank">@jaidenratti</Link>.</p>
-        <p className={styles.description}><i>Currently in</i> 🇨🇦</p>
       <hr></hr>
       <p className={styles.description}>Email: <Link href="mailto:jkratti@uwaterloo.ca"className={styles.customLink} target="_blank">jkratti@uwaterloo.ca</Link><br/>
       LinkedIn: <Link href="https://www.linkedin.com/in/jaidenratti/"className={styles.customLink} target="_blank">@jaidenratti</Link><br/>
