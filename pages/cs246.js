@@ -11,7 +11,7 @@ const NumPage = ({ numHtmlContent }) => {
         <title>CS246</title>
       </Head>
       <main className={styles.main}>
-        {/* Render the content of cs246.html directly */}
+        {/* Render the content of cs246.html directl! */}
         <div dangerouslySetInnerHTML={{ __html: numHtmlContent }} />
       </main>
     </div>
