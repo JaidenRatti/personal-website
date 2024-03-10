@@ -27,6 +27,21 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/cs246": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/cs246.js"
+    ],
+    "/math135": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/math135.js"
+    ],
+    "/math239": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/math239.js"
+    ],
     "/stat230": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

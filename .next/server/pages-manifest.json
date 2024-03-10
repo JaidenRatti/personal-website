@@ -2,6 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/stat230": "pages/stat230.js",
-  "/": "pages/index.js"
+  "/math239": "pages/math239.js",
+  "/math135": "pages/math135.js",
+  "/": "pages/index.js",
+  "/cs246": "pages/cs246.js",
+  "/stat230": "pages/stat230.js"
 }
