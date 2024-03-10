@@ -15,7 +15,7 @@
     "react-responsive-carousel": "^3.2.23"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18.x"
   },
   "devDependencies": {
     "@types/node": "20.11.24",
