@@ -31,8 +31,8 @@ export default function Home() {
         
         <ul className={styles.bulletList}>
           <li><Link href="/math239"className={styles.customLink}>MATH239</Link> Introduction to Combinatorics</li>
-          <li><Link href="/math135"className={styles.customLink}>MATH135</Link> Language and Proofs in Algebra</li>
           <li><Link href="/stat230"className={styles.customLink}>STAT230</Link> Probability</li>
+          <li><Link href="/math135"className={styles.customLink}>MATH135</Link> Language and Proofs in Algebra</li>
           <li><Link href="/cs246"className={styles.customLink}>CS246</Link> Object-Oriented Software Development</li>
         </ul>
         <p className={styles.description}>Also enjoy road cycling. On Strava <Link href="https://www.strava.com/athletes/jaidenratti"className={styles.customLink} target="_blank">@jaidenratti</Link>.</p>
