@@ -41,6 +41,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/math239.js"
+    ],
+    "/stat230": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/stat230.js"
     ]
   },
   "ampFirstPages": []

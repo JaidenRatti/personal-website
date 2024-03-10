@@ -404,6 +404,7 @@ const booksData = [
     
 ]
 
+
 export default function Books() {
   return (
     <div className={styles.container}>
@@ -430,6 +431,7 @@ export default function Books() {
                     </div>
             ))}
         </div>
+    
       </main>
 
       <footer className={styles.footer}>
