@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.0.2",
-    "3d-book": "^0.2.0",
     "katex": "^0.16.9",
     "mathjax": "^3.2.2",
     "next": "latest",
