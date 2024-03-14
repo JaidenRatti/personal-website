@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className={styles.header}>
         <h2 className={styles.title}>Jaiden Ratti</h2>
-        <p className={styles.description}>2nd year computer science student at the University of Waterloo; pursuing a double specialization in hci & business + a minor in cognitive science.</p>
+        <p className={styles.description}>2nd year computer science student at the University of Waterloo; pursuing a double specialization in hci & business + a minor in combinatorics & optimization.</p>
         <p className={styles.description}>Prev.</p>
         <ul className={styles.bulletList}>
           <li>Data Eng @ RBC Investor Services</li>
