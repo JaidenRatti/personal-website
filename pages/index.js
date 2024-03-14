@@ -22,7 +22,7 @@ export default function Home() {
         <ul className={styles.bulletList}>
           <li>Data Eng @ RBC Investor Services</li>
           <li>Research @ Blockchain Research Institute</li>
-          <li>Micropayments Committee @ LinkSports</li>
+          <li>Micropayments Strategy @ LinkSports</li>
           <li>Blockchain in Public Sector @ Cloud SynApps</li>
           <li>Started <Link href="https://www.nextgenfinance.org/" className={styles.customLink} target="_blank">nextgenfinance.org</Link> in high school</li>
         </ul>
