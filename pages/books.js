@@ -297,6 +297,11 @@ const booksData = [
         a: "Robin S. Sharma"
     },
     {
+        t: "The Last Question",
+        d: "",
+        a: "Isaac Asimov"
+    },
+    {
         t: "The Algebra of Happiness:",
         d: "Notes on the Pursuit of Success, Love, and Meaning",
         a: "Scott Galloway"
